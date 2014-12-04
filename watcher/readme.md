@@ -1,4 +1,4 @@
-# Eartquapps - Twitter watcher
+# Earthquapps - Twitter watcher
 
 ## About
 

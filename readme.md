@@ -1,4 +1,4 @@
-# Eartquapps
+# Earthquapps
 
 Sistem ini terdiri dari 3 komponen, yaitu web interface, twitter watchwe dan smsd sender
 
@@ -10,6 +10,6 @@ Web interface untuk registrasi user
 
 Menggunakan twitter stream api untuk mendapatkan live twit kemudian di teruskan ke beanstalk queue
 
-* smsd
+* [smsd](https://github.com/gilankpam/earthquapps-smsd)
 
 Mengirimkan sms menggunakan telkom sms api

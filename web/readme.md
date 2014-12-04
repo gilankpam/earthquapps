@@ -1,4 +1,4 @@
-# Eartquapps - Web Interface
+# Earthquapps - Web Interface
 
 ## About
 
