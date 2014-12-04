@@ -14,4 +14,4 @@
 
 * Start beanstalkd daemon
 
-* Run the web `python twitter_watcher.py`
+* Run the watcher `python twitter_watcher.py`
