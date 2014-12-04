@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}
+Unsubscribe
+{% endblock %}
+
+{% block content %}
+					<h1>Unsubscribe</h1>
+					<form class="form-inline" role="form" method="POST">
+					  <div class="form-group">
+					    <input type="text" class="form-control" id="number" name="number" placeholder="08123456789">
+					  </div>
+					  <button type="submit" class="btn btn-warning btn-lg">Submit</button>
+					</form>
+{% endblock %}
